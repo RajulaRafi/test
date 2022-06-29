@@ -1,6 +1,6 @@
 <?php
 $x=10;
 $y=3;
-$diff= $x-$y;
-echo $diff;
+$difference= $x-$y;
+echo $difference;
 ?>
